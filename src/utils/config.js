@@ -255,25 +255,38 @@ export const skillsObjects = [
 export const certificateObjects = [
   {
     name: "Scaler Expert MOCK Interview - DSA",
-    image: "https://i.ibb.co/mGHt1Bv/MockDSA.jpg",
+    image: "https://moonshot.scaler.com/s/image/sl/hSf9KQeL3W",
     bullets: [
       "Time & Space Complexity | Arrays - Prefix Sum, Carry Forward, Sub-arrays, Sliding Window | 2D Matrices | Hashmap | Bit Manipulation | 2 Pointers Technique | Recursion | Sorting and Searching (Binary Search) Techniques | Strings | Linked Lists | Stacks and Queues | Trees and BST - Inorder, Preorder, Postorder, Level order traversal | Heaps | Tries | Dynamic Programming | Greedy Algorithms | Backtracking | Graphs - BFS & DFS",
     ],
   },
   {
     name: "Scaler Expert MOCK Interview - SQL & Databases",
-    image:
-      "https://moonshot-assets.s3.us-west-2.amazonaws.com/generated/6d4bf5d6d456560f00437e80570dd00d964b4a403644c18be98b469ac7afa6c0?AWSAccessKeyId=ASIAY7MGLG6ZE564BBGC&Expires=1703231731&Signature=Xpps98paXJINsuK4onuD3coW7TI%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEJ%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIE1RRtOIWQmktLvt86cIq31sgl5G1ffon6EQ%2FVbAiHvcAiEA4D6cL8CM2kf0%2FpgQh%2FvL5lVdXijOaYAj%2FNGuhr82o7Uq9wMIKBADGgw2MTcxNDY0MzE0MTAiDDFR%2BjdSLLOr9MrRUCrUA1M1IRlmnsGjSGbaRZZHC2EKHVwl7u%2Fe%2BCsHrpMK0AwZBX%2F6BknujPgs3giuidIAFIRvOULk7sFGcN67PTXDASALfKw3No31TDrgTiNtoR5LNXJKv0i8QeJ%2FGlzqIf6JlO%2B9yVnJn%2FiixN3Xebi49NLf49LwBIxP6G15OZlhcXBsem979Bo25TwDGP84WM6urx4EgyaKFMMxaSPbNOpKlsphbU0q5hH%2By3XbYKIfJPBz%2F%2FCJ7Uoj0XksX51zWCtgdG3u8%2BHWlR8Po2DIMYw%2Fv0OlKAVvVoMmDWM7MfjuqlIe73WmJXXSvWgRVmoln%2BPQRrxpQIqSFONxjfS3nMxewMy9jAMXYwT7i%2F3hfgZ5nEb88nVkcYENGAg4DfaX0GVCr8KvKUTAOjH1ZwuraU12zUwDAnU4sRbNhD9zPLU53MH8ADJjcJ4JjY5n%2F9gVcLfj1lMx78CRaBBSqSQRv56LvYoaK7yexR3AjNlkfUcBEXH%2FQePVhZAjlzCWyevs5jr1CiKNIJVH19B9xE22owhsZq82eqOT1Rllhy6yEOjJzsRSPCTUpwgTEIusFrwWxT14juUpeq9N65%2Be5pCs7FV5Jy%2BQBFn8Il7XWO%2FK%2B9sY6tK3vBgbdzCV2ZSsBjqlARfwToQ7R%2FAEff%2BgssTx9%2BleMMbVmESm70SItL%2FT5eqEFg1XgVpT0o%2FRTakBKJmlzClHQKODk2md1oxpX1shPriP1f3eqrU3U6eFf2uc205q28w7sRpXLIRj88WK4GDuDHI2oXEWVK6S8g%2FzAW3OqLO6cZVs9pxQ6b%2BmCnSyEruucJ9TBGdwfUVzo5sI5tp315Uw35%2BNmHMCnmmHR4I0ej%2Bbk20EYg%3D%3D",
+    image: "https://moonshot.scaler.com/s/image/sl/hSf9KQeL3W",
     bullets: [
       "Relational databases and DBMS, SQL, Keys, CRUD operations, Where, Group By, Having, IN operator, NULL handling, Order By, Limit & Offset, LIKE operator, Joins, Aggregate Queries, Sub-queries, Union and Union All, Indexing, Transactions, ACID, Isolation levels, Shared Locks & Exclusive Locks, Schema Design, Normalisation and Normalisation Forms, Cardinalities, Primary & Foreign Keys, Views & Window Functions",
     ],
   },
   {
     name: "Scaler Expert MOCK Interview - JavaScript",
-    image:
-      "https://moonshot-assets.s3.us-west-2.amazonaws.com/generated/df2be98adde3c2d0b60f4d929b0bda34232ba78bef991e50a07e7d081c5dccf7?AWSAccessKeyId=ASIAY7MGLG6ZE564BBGC&Expires=1703233596&Signature=TWF1eJ4Fm4ZceJee02%2F0%2Fa%2F20Qo%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEJ%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIE1RRtOIWQmktLvt86cIq31sgl5G1ffon6EQ%2FVbAiHvcAiEA4D6cL8CM2kf0%2FpgQh%2FvL5lVdXijOaYAj%2FNGuhr82o7Uq9wMIKBADGgw2MTcxNDY0MzE0MTAiDDFR%2BjdSLLOr9MrRUCrUA1M1IRlmnsGjSGbaRZZHC2EKHVwl7u%2Fe%2BCsHrpMK0AwZBX%2F6BknujPgs3giuidIAFIRvOULk7sFGcN67PTXDASALfKw3No31TDrgTiNtoR5LNXJKv0i8QeJ%2FGlzqIf6JlO%2B9yVnJn%2FiixN3Xebi49NLf49LwBIxP6G15OZlhcXBsem979Bo25TwDGP84WM6urx4EgyaKFMMxaSPbNOpKlsphbU0q5hH%2By3XbYKIfJPBz%2F%2FCJ7Uoj0XksX51zWCtgdG3u8%2BHWlR8Po2DIMYw%2Fv0OlKAVvVoMmDWM7MfjuqlIe73WmJXXSvWgRVmoln%2BPQRrxpQIqSFONxjfS3nMxewMy9jAMXYwT7i%2F3hfgZ5nEb88nVkcYENGAg4DfaX0GVCr8KvKUTAOjH1ZwuraU12zUwDAnU4sRbNhD9zPLU53MH8ADJjcJ4JjY5n%2F9gVcLfj1lMx78CRaBBSqSQRv56LvYoaK7yexR3AjNlkfUcBEXH%2FQePVhZAjlzCWyevs5jr1CiKNIJVH19B9xE22owhsZq82eqOT1Rllhy6yEOjJzsRSPCTUpwgTEIusFrwWxT14juUpeq9N65%2Be5pCs7FV5Jy%2BQBFn8Il7XWO%2FK%2B9sY6tK3vBgbdzCV2ZSsBjqlARfwToQ7R%2FAEff%2BgssTx9%2BleMMbVmESm70SItL%2FT5eqEFg1XgVpT0o%2FRTakBKJmlzClHQKODk2md1oxpX1shPriP1f3eqrU3U6eFf2uc205q28w7sRpXLIRj88WK4GDuDHI2oXEWVK6S8g%2FzAW3OqLO6cZVs9pxQ6b%2BmCnSyEruucJ9TBGdwfUVzo5sI5tp315Uw35%2BNmHMCnmmHR4I0ej%2Bbk20EYg%3D%3D",
+    image: "https://moonshot.scaler.com/s/image/sl/lCNUq1mhOW",
     bullets: [
-      "Scope | Closures | Var, Let & Const | Data Types | Garbage Collection | Code Execution Context, Event Loop & ES6 | Temporal Dead Zone | Hoisting | Currying | Higher Order Functions | DOM manipulations | Events and Events Handling | APIs | Local and Session Storage | Debouncing & Throttling | Async/ Defer | OOP - Constructor Functions, Classical & Prototypal Inheritance | Call, Apply, Bind | Polyfills | Asynchronous Programming - setTimeout, setInterval, Callbacks, Promises & Promise APIs, Async Await | this keyword | Shallow & Deep copy | Spread & Rest operator",
+      "Scope | Closures | Var, Let & Const | Data Types | Garbage Collection | Code Execution Context, Event Loop & ES6 | Temporal Dead Zone | Hoisting | Currying | Higher Order Functions | DOM manipulations | Events and Events Handling | APIs | Local and Session Storage | Debouncing & Throttling | Async/ Defer | OOP - Constructor Functions, Classical & Prototypal Inheritance | Call, Apply, Bind | Polyfills | Asynchronous Programming - setTimeout, setInterval, Callbacks, Promises & Promise APIs, Async Await | this keyword | Shallow & Deep copy | Spread & Rest operator , etc",
+    ],
+  },
+  {
+    name: "Scaler Expert MOCK Interview - React (Frontend)",
+    image: "https://moonshot.scaler.com/s/image/sl/smfXk9gdaI",
+    bullets: [
+      "React Hooks | State Management | Config Drive UI | Redux Toolkit | Thunk | Reusable Components | Class vs Functional Components | Props & State | List & Keys | Scaling React Apps | Best Coding Practices | React Router | Bundlers & Babel | JSX | React.Fragment | Code Splitting | Higher Order Components | Pure Functions | Code Splitting | React Testing Library | Controlled vs Uncontrolled Components | Custom Hooks | Handling Events | Conditional Rendering | Tailwind CSS | Webpack, Vite | React Fiber | Virtual DOM | Reconciliation, Diffing algorithm | Component lifecycle | Shimmer UI | CORS | Axios, Fetch | Props Drilling | Context API (useContext, createContext, Provider) | useRef, useMemo | useReducer, useTransition | Error Boundaries, etc",
+    ],
+  },
+  {
+    name: "MongoDB Node.js Developer Path",
+    image:
+      "https://i.ibb.co/64B3G2j/pranav-jadhav-mongo-university-certificate.jpg",
+    bullets: [
+      "MongoDB Fundamentals and CRUD | Mongoose | Schema and Model| JOI and Mongoose Data Validations | Regex | SchemaTypes | ObjectIDs and Validations | MongoDB Atlas, Cluster, Database, Collections, Documents | Data Modeling - references, embedding, hybrid | Node.js Mongodb Driver | Compass | Queries - sort, filter, limit, count | Indexes | Atlas Search | ACID Transactions | MVC architecture | REST APIs development | Express | Authentication and Authorization | Protected Routes",
     ],
   },
 ];
