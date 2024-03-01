@@ -66,7 +66,7 @@ const appRouter = createBrowserRouter(
       ],
     },
   ],
-  // { basename: "/portfolio" }
+  { basename: "/portfolio" }
 );
 
 //simply remove basename while local development
