@@ -27,7 +27,7 @@ const App = () => {
     <div className="box-content m-0 p-0">
       <Header />
       <Outlet />
-      <Footer />
+      {/* <Footer /> */}
     </div>
   );
 };
@@ -65,9 +65,11 @@ const appRouter = createBrowserRouter(
         },
       ],
     },
-  ]
-  // { basename: "/learning-react" }
+  ],
+  // { basename: "/portfolio" }
 );
+
+//simply remove basename while local development
 
 const container = document.getElementById("root");
 const root = createRoot(container);

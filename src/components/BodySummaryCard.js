@@ -14,7 +14,7 @@ const BodySummaryCard = () => {
           React Testing Library & Jest, MongoDB, SQL & System Design
         </li>
         <li className="text-xl my-3">
-          <span className="text-3xl">🏆</span> Upskilling with Scaler Academy
+          <span className="text-3xl">🏆</span> Upskilled with Scaler Academy
           for 1+ year & recognized in the top 5% among 45k peers
         </li>
         <li className="text-xl my-3">
@@ -32,13 +32,13 @@ const BodySummaryCard = () => {
         </li>
       </ul>
       <div className="mt-8 flex flex-wrap">
-        <button className="p-2 mb-5 bg-orange-400 rounded-lg animate-bounce">
+        {/* <button className="p-2 mb-5 bg-orange-400 rounded-lg animate-bounce">
           Download Resume
-        </button>
+        </button> */}
         <div className="flex flex-wrap">
           <a
             className="ml-5"
-            href="https://linkedin.com/"
+            href="https://www.linkedin.com/in/pranav-jadhav-javascript-nodejs-mongodb-express/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -46,7 +46,7 @@ const BodySummaryCard = () => {
           </a>
           <a
             className="ml-5"
-            href="https://github.com/"
+            href="https://github.com/trinitypranav"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -54,7 +54,7 @@ const BodySummaryCard = () => {
           </a>
           <a
             className="ml-5"
-            href="https://scaler.com/"
+            href="https://www.scaler.com/academy/profile/f107b79608d3/"
             target="_blank"
             rel="noopener noreferrer"
           >
