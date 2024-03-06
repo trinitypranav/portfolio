@@ -71,7 +71,7 @@ export const projectObjects = [
       "Movie filters, typeahead + memoized debouncing and Stripe pay integration",
       "Dark mode implementation using Tailwind and responsive UI for mobile",
     ],
-    demoLink: "https://cineversegpt.web.app/",
+    demoLink: "https://cineverse-jcjw.onrender.com/",
     githubLink: "https://github.com/trinitypranav/cineverse",
     techstack: "React, Tailwind, Firebase, TMDB, OpenAI, Stripe, Redux",
   },
