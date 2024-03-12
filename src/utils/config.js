@@ -52,7 +52,7 @@ export const workObjects = [
 
 export const projectObjects = [
   {
-    name: "Portfolio Website",
+    name: "Portfolio",
     image: "https://i.ibb.co/VSWbvMr/portfolio-Website-Screenshot.png",
     bullets: [
       "Built highly scalable & responsive single page application end-to-end in 3 days using React & Tailwind which loads blazingly fast within 10ms due to efficient lazy loading implementation",
